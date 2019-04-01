@@ -1,0 +1,27 @@
+.hero-body {
+  background: url("../../Assets/blue-clouds-day.jpg");
+  background-size: cover; }
+  @media screen and (max-width: 769px-px) {
+    .hero-body .title {
+      font-weight: bold; } }
+  @media screen and (max-width: 769px), print {
+    .hero-body .title {
+      font-size: 2.5rem; } }
+  @media screen and (max-width: desktop) {
+    .hero-body .title {
+      font-size: 4rem;
+      margin-top: 2rem; } }
+
+h2 {
+  margin: 1.5rem 0 2rem 0 !important; }
+
+.fa-cog {
+  font-size: 40px; }
+
+@media screen and (max-width: desktop) {
+  #learn {
+    margin-bottom: 2rem; } }
+
+@media screen and (max-width: 769px), print {
+  .pd {
+    padding: 2em 0; } }
