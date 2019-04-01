@@ -4,7 +4,7 @@ A simple react site with routing that can be used as a starting point for small 
 
 ## Why does this exist?
 
-This simple site can be used a a starting point for simple sites.
+This simple site can be used a a starting point for a react based site.
 The routes are already in place and this project is equiped with yarn sass and bulma. 
 Get it started and begin building out the react components!
 
